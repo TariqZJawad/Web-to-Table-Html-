@@ -1,4 +1,4 @@
-# 📊 WebToTable Professional ETL Engine (v1.0)
+# 📊 Web Table Extraction & Cleaning Tool (v1.0)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://viliwebtotablev1.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
